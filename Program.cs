@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Dcit318_assignment1_11108240
+{
+    class Program
+{
+    static void Main()
+    {
+        GradeProgram.Run();
+    }
+}
+}
+
