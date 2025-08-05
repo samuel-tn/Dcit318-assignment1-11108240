@@ -4,7 +4,7 @@
 {
     static void Main()
     {
-        TriangleProgram.Run();
+        GradeProgram.Run();
     }
 }
 }
