@@ -4,7 +4,7 @@
 {
     static void Main()
     {
-        TicketProgram.Run();
+        TriangleProgram.Run();
     }
 }
 }
